@@ -5,7 +5,7 @@ Using Auto Hot Key, this script adds some useful functions to my desktop experie
 Features:
   - Mail multimedia key --> reassigned to open Discord
   - Music multimedia key --> reassigned to open Spotify
-  - both of these shortcuts can be reactivated to open or minimize the corresponding app
+  - (both of these shortcuts can be reactivated to open or minimize the corresponding app)
   - Files multimedia key --> opens up IDLE for quick python scripting
   - Windows + C --> opens Google Chrome in Incognito mode
   - Alt + ScrollUp/Down --> increase/decrease volume
