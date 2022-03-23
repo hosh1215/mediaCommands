@@ -15,6 +15,8 @@ For the commands that launches specific apps, replace the file path with the pat
 
 For the hotkey combinations, its best to look up the AHK documentation to find what you want.
 In terms of the Virtual Key assignments (vk##), I used the keycode.ahk script to get the value of the keypress.
+Be careful with the keycode.ahk. You can easily get stuck in the loop since hitting the [x] doesn't close it.
+To exit, you need to close the running script in your windows task bar. Or restart your computer.
 
 I also added a shortcut to this file to my startup folder so that it automatically gets launched everytime I start my machine.
 This script is something you probably want running all of the time in the background so I recommend doing so too.
