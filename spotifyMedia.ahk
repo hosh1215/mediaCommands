@@ -8,7 +8,7 @@ else
 	if WinExist("ahk_exe Spotify.exe")
 		winactivate ahk_exe Spotify.exe
 	else
-		Run, C:\Users\joshu\AppData\Roaming\Spotify\Spotify.exe
+		Run, C:\Users\Dan\AppData\Roaming\Spotify\Spotify.exe
 
 Return
 
@@ -23,12 +23,12 @@ else
 	if WinExist("ahk_exe Discord.exe")
 		winactivate ahk_exe Discord.exe
 	else
-		Run, C:\Users\joshu\AppData\Local\Discord\Update.exe --processStart Discord.exe
+		Run, C:\Users\Dan\AppData\Local\Discord\Update.exe --processStart Discord.exe
 Return
 
 
 vkB6:: ; files node button  178 » B6   execute tool		IDLE
-Run, C:\Users\joshu\AppData\Local\Programs\Python\Python38-32\pythonw.exe "C:\Users\joshu\AppData\Local\Programs\Python\Python38-32\Lib\idlelib\idle.pyw"
+Run, C:\Users\Dan\AppData\Local\Programs\Python\Python38-32\pythonw.exe "C:\Users\Dan\AppData\Local\Programs\Python\Python38-32\Lib\idlelib\idle.pyw"
 return
 
 
